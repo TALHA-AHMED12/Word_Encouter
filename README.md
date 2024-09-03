@@ -1,3 +1,2 @@
 "# Word_Encouter" 
-"# Word_Encouter" 
-"# simple-calculator" 
+I created a simple word encounter program using a typescript and npm package (''INQUIRER").  
